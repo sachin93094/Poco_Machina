@@ -1,5 +1,0 @@
-include(CMakeFindDependencyMacro)
-find_dependency(PocoOSP)
-find_dependency(PocoOSPWeb)
-find_dependency(PocoNet)
-include("${CMAKE_CURRENT_LIST_DIR}/PocoOSPWebEventTargets.cmake")
